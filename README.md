@@ -2,6 +2,7 @@
 good-2-knows when speed learning rails
 
 **Initiation**
+
 It is assumed that you have rails installed. If not find a tutorial on how to do that before continueing.
 
 1. New project: rails new <project_name>
