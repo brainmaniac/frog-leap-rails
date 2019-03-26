@@ -22,7 +22,6 @@ if you need to run on other port do ```rails s -p 3007``` - default is 3000
 
 4. Then go to localhost:<your chosen port>
 
-if problem with tb occures check this out:
+if problem with db occures check this out:
 https://stackoverflow.com/questions/38176304/no-connection-pool-for-activerecordbase
 
-5. 
