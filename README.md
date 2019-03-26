@@ -26,3 +26,9 @@ if you need to run on other port do ```rails s -p 3007``` - default is 3000
 if problem with db occures check this out:
 https://stackoverflow.com/questions/38176304/no-connection-pool-for-activerecordbase
 
+
+```
+<% %> will evaluate the code, but will not print the output.
+
+<%= %> will evaluate the code AND print the output.
+```
